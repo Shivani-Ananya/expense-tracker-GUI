@@ -1,0 +1,17 @@
+[
+    {
+        "date": "2025-07-11",
+        "category": "income",
+        "amount": 500.0
+    },
+    {
+        "date": "2025-07-11",
+        "category": "income",
+        "amount": 700.0
+    },
+    {
+        "date": "2025-07-10",
+        "category": "veg",
+        "amount": 533.0
+    }
+]
